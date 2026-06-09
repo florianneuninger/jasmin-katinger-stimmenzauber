@@ -204,8 +204,8 @@ const Kontakt = () => {
                 <div className="space-y-3 md:space-y-4 text-white">
                   <div className="flex items-center">
                     <Mail size={18} className="mr-3 flex-shrink-0" />
-                    <a href="mailto:kontakt@jasminkatinger.at" className="hover:underline text-sm md:text-base">
-                      kontakt@jasminkatinger.at
+                    <a href="mailto:jasmin@jasminkatinger.at" className="hover:underline text-sm md:text-base">
+                      jasmin@jasminkatinger.at
                     </a>
                   </div>
                   <div className="flex items-center">

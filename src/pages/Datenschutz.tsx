@@ -45,14 +45,14 @@ const Datenschutz = () => {
             <li>Einschränkung</li>
           </ul>
           <p>
-            Wenn Sie vermuten, dass im Zuge der Verarbeitung Ihrer Daten Verstöße gegen das Datenschutzrecht passiert sind, so haben Sie die Möglichkeit sich bei der Inhaberin der Website (kontakt@jasminkatinger.at) oder der Datenschutzbehörde zu beschweren.
+            Wenn Sie vermuten, dass im Zuge der Verarbeitung Ihrer Daten Verstöße gegen das Datenschutzrecht passiert sind, so haben Sie die Möglichkeit sich bei der Inhaberin der Website (jasmin@jasminkatinger.at) oder der Datenschutzbehörde zu beschweren.
           </p>
           
           <h2 className="font-serif text-2xl text-dark-green mt-8 mb-4">Kontaktdaten</h2>
           <p>
             Webseitenbetreiber: Jasmin Katinger<br />
             Telefonnummer: +43 676 7023556<br />
-            Email: kontakt@jasminkatinger.at
+            Email: jasmin@jasminkatinger.at
           </p>
           
           <p className="mt-8 text-sm text-dark-green/60">

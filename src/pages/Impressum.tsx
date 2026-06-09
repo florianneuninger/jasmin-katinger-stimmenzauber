@@ -24,7 +24,7 @@ const Impressum = () => {
           <h2 className="font-serif text-2xl text-dark-green mt-8 mb-4">Kontakt</h2>
           <p>
             Telefon: +43 676 702 35 56<br />
-            E-Mail: kontakt@jasminkatinger.at
+            E-Mail: jasmin@jasminkatinger.at
           </p>
           
           <h2 className="font-serif text-2xl text-dark-green mt-8 mb-4">Unternehmensgegenstand</h2>
